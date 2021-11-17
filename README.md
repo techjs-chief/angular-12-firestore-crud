@@ -23,15 +23,6 @@ Fullstack with Node Express:
 
 > [Angular 12 + Node Express + MongoDB example](https://www.github.com/JS-IT/angular-12-mongodb-node-js-express/)
 
-Fullstack with Spring Boot:
-> [Angular 12 + Spring Boot + H2 Embedded Database example](https://www.github.com/JS-IT/angular-12-spring-boot-crud/)
-
-> [Angular 12 + Spring Boot + MySQL example](https://www.github.com/JS-IT/angular-12-spring-boot-mysql/)
-
-> [Angular 12 + Spring Boot + PostgreSQL example](https://www.github.com/JS-IT/angular-12-spring-boot-postgresql/)
-
-> [Angular 12 + Spring Boot + MongoDB example](https://www.github.com/JS-IT/angular-12-spring-boot-mongodb/)
-
 Fullstack with Django:
 
 > [Angular 12 + Django Rest Framework](https://www.github.com/JS-IT/django-angular-12-crud-rest-framework/)

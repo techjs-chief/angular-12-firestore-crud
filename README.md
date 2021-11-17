@@ -8,24 +8,30 @@ Build Angular 12 CRUD App with Firebase Firestore that uses `AngularFireStore` s
 ![angular-12-firestore-crud-app](angular-12-firestore-crud-app.png)
 
 More Practice:
-> [Angular 12 Firebase CRUD Realtime DataBase | AngularFireDatabase](https://www.github.com/JS-IT/angular-12-firebase-crud/)
+> [Angular CRUD Application example with Web API](https://github.com/JS-IT/angular-13-crud-example/)
 
-> [Angular 12 Firebase Storage: File Upload/Display/Delete example](https://www.github.com/JS-IT/angular-12-file-upload-firebase-storage/)
+> [Angular 12 Firebase CRUD with Realtime DataBase | AngularFireDatabase](https://github.com/JS-IT/angular-12-firebase-crud/)
 
-> [Angular 12 CRUD Application example with Web API](https://www.github.com/JS-IT/angular-12-crud-app/)
+> [Angular 13 Firebase CRUD with Realtime DataBase | AngularFireDatabase](https://github.com/JS-IT/angular-13-firebase-crud/)
 
-> [Angular 12 Form Validation example (Reactive Forms)](https://www.github.com/JS-IT/angular-12-form-validation/)
+> [Angular 12 Firestore CRUD example with AngularFireStore](https://github.com/JS-IT/angular-12-firestore-crud/)
+
+> [Angular 13 Firestore CRUD example with AngularFireStore](https://github.com/JS-IT/angular-13-firestore-crud/)
+
+> [Angular 13 Firebase Storage: File Upload/Display/Delete example](https://github.com/JS-IT/angular-13-file-upload-firebase-storage/)
+
+> [Angular Form Validation example (Reactive Forms)](https://github.com/JS-IT/angular-12-form-validation/)
 
 Fullstack with Node Express:
-> [Angular 12 + Node Express + MySQL example](https://www.github.com/JS-IT/angular-12-node-js-express-mysql/)
+> [Angular + Node Express + MySQL example](https://github.com/JS-IT/nodejs-express-mysql/)
 
-> [Angular 12 + Node Express + PostgreSQL example](https://www.github.com/JS-IT/angular-12-node-js-express-postgresql/)
+> [Angular + Node Express + PostgreSQL example](https://github.com/JS-IT/node-express-postgresql/)
 
-> [Angular 12 + Node Express + MongoDB example](https://www.github.com/JS-IT/angular-12-mongodb-node-js-express/)
+> [Angular + Node Express + MongoDB example](https://github.com/JS-IT/node-express-mongodb/)
 
 Fullstack with Django:
 
-> [Angular 12 + Django Rest Framework](https://www.github.com/JS-IT/django-angular-12-crud-rest-framework/)
+> [Angular + Django Rest Framework](https://github.com/JS-IT/django-crud-rest-framework/)
 
 ## Development server
 
